@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwinSpace</string>
+    <string name="app_full_name">TwinSpace: Dual Apps &amp; Cloner</string>
+    <string name="admin_description">Enables TwinSpace to create and manage an isolated profile for cloning apps securely.</string>
+</resources>
