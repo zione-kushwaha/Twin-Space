@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Left Parallel Node Ring -->
+    <path
+        android:strokeWidth="5"
+        android:strokeColor="#00E5FF"
+        android:fillColor="#00000000"
+        android:pathData="M42,54 C42,46.27 48.27,40 56,40 C63.73,40 70,46.27 70,54 C70,61.73 63.73,68 56,68 C48.27,68 42,61.73 42,54 Z" />
+
+    <!-- Right Parallel Node Ring -->
+    <path
+        android:strokeWidth="5"
+        android:strokeColor="#818CF8"
+        android:fillColor="#00000000"
+        android:pathData="M38,54 C38,46.27 44.27,40 52,40 C59.73,40 66,46.27 66,54 C66,61.73 59.73,68 52,68 C44.27,68 38,61.73 38,54 Z" />
+
+    <!-- Core Twin Intersection Node -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,49 A5,5 0 1,0 54,59 A5,5 0 1,0 54,49 Z" />
+
+    <!-- Top & Bottom Spark Accents -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,34 L56,38 L60,39 L56,40 L54,44 L52,40 L48,39 L52,38 Z" />
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M54,64 L56,68 L60,69 L56,70 L54,74 L52,70 L48,69 L52,68 Z" />
+</vector>
